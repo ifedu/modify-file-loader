@@ -1,0 +1,28 @@
+{
+    "description": "Webpack loader for modify file",
+    "name": "modify-file-loader",
+    "version": "1.0.0",
+    "author": {
+        "name": "Eduardo Pérez-Bermejo",
+        "email": "ifedu@outlook.com",
+        "url": "http://www.github.com/ifedu/modify-file-loader"
+    },
+    "dependencies": {
+        "loader-utils": "1.1.0"
+    },
+    "engines": {
+        "node": ">= 4.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ifedu/modify-file-loader"
+    },
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+        "webpack",
+        "loader",
+        "modify"
+    ]
+}
